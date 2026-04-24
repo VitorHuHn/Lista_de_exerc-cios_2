@@ -1,0 +1,18 @@
+if (a > b)
+{
+    if (a > c)
+    {
+        Console.WriteLine("O 1º Valor é maior");
+    }
+}
+else
+{
+    if (b > c)
+    {
+        Console.WriteLine("O 2º Valor é maior");
+    }
+    else
+    {
+        Console.WriteLine("O 3º Valor é maior");
+    }
+}
